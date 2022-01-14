@@ -1,0 +1,15 @@
+﻿/*add css for body, changing background and font colour.*/
+body {
+    font-family:cursive;
+    background-color:darkgoldenrod;
+}
+
+label{
+    font-size: 30px;
+    color:darkgreen;
+    float:inherit;
+}
+textarea{
+    fill:azure
+}
+
