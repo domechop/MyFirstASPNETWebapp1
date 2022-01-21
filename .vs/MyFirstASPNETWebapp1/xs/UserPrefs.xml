@@ -1,23 +1,30 @@
 ﻿<Properties StartupConfiguration="{E57198C3-00D2-41AE-B9D9-CF09ED426BE7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstASPNETWebapp1/wwwroot/index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstASPNETWebapp1/wwwroot/js/calculator.js">
     <Files>
-      <File FileName="MyFirstASPNETWebapp1/Program.cs" Line="27" Column="1" />
-      <File FileName="MyFirstASPNETWebapp1/Startup.cs" Line="1" Column="1" />
-      <File FileName="MyFirstASPNETWebapp1/wwwroot/js/calculator.js" Line="63" Column="54" />
-      <File FileName="MyFirstASPNETWebapp1/wwwroot/index.html" Line="9" Column="15" />
+      <File FileName="MyFirstASPNETWebapp1/Views/Blah/Index.cshtml" Line="52" Column="41" />
+      <File FileName="MyFirstASPNETWebapp1/Views/Blah/Calculator.cshtml" Line="25" Column="65" />
+      <File FileName="MyFirstASPNETWebapp1/wwwroot/js/calculator.js" Line="1" Column="1" />
+      <File FileName="MyFirstASPNETWebapp1/Controllers/BlahController.cs" Line="2" Column="35" />
+      <File FileName="MyFirstASPNETWebapp1/Models/GradeCalc.cs" Line="27" Column="7" />
+      <File FileName="MyFirstASPNETWebapp1/Views/_ViewImports.cshtml" Line="4" Column="1" />
+      <File FileName="MyFirstASPNETWebapp1/Program.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyFirstASPNETWebapp1" expanded="True">
             <Node name="MyFirstASPNETWebapp1" expanded="True">
-              <Node name="Properties" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Blah" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="img" expanded="True" />
-                <Node name="js" expanded="True" />
-                <Node name="lib" expanded="True" />
-                <Node name="index.html" selected="True" />
+                <Node name="js" expanded="True">
+                  <Node name="calculator.js" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
