@@ -5,9 +5,10 @@ body {
 }
 
 label{
-    font-size: 30px;
-    color:darkgreen;
+    font-size: 40px;
+    color:darkblue;
     float:inherit;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 textarea{
     fill:azure
